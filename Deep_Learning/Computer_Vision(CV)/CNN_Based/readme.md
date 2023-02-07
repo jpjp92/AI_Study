@@ -1,6 +1,7 @@
-# Computer Vision 
+# Convolutional Neural Network(CNN) based Models 
 
-**CNN based Models**
+---
+
 - AlexNet
 - VGGNet
 - GoogLeNet
