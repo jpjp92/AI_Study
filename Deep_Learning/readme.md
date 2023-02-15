@@ -1,4 +1,4 @@
 # CV and NLP
-> In Computer Vision - Image Classification
+> Computer Vision - Image Classification
 
-> IN NLP - Language Modeling 
+> Nautral Language Processing - Language Modeling 
