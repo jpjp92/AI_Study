@@ -1,4 +1,4 @@
 # CV and NLP
-> In Computer Vision - Image Classification, Object Detection, Image Generation 
+> In Computer Vision - Image Classification
 
 > IN NLP - Language Modeling 
