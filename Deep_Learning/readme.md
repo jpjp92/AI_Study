@@ -1,4 +1,2 @@
 # CV and NLP
-> Computer Vision - Image Classification
-
-> Nautral Language Processing - Language Modeling 
+> Computer Vision - Image Classification, Object Detection, Image Generation 
